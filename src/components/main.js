@@ -36,7 +36,7 @@ class Main extends Component {
             <p>In High school</p>
             <p>I like React</p>
             <p>Tabs over spaces</p>
-            <p>Functional > OOR</p>
+            <p>Functional > OOP</p>
           </div>
         </Item>
 
